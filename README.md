@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vadim</h1>
 <h3 align="center">Junior front-end developer from Ukraine</h3>
 
-<p align="left"> <a href="https://twitter.com/stefanio228" target="blank"><img src="https://img.shields.io/twitter/follow/stefanio228?logo=twitter&style=for-the-badge" alt="stefanio228" /></a> </p>
-
-- 🔭 I’m currently working on [Blog application](https://github.com/vadimturok/my-blog.git)
 
 - 📫 How to reach me **turokvadim2510@gmail.com**
 
