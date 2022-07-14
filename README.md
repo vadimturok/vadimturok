@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vadim</h1>
-<h3 align="center">Full Stack developer from Ukraine / 18</h3>
+<h3 align="center">Front-end engineer from Ukraine / 18</h3>
 
 
 - 📫 How to reach me **turokvadim2510@gmail.com**
